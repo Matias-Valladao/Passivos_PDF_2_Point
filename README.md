@@ -1,1 +1,4 @@
-Este repositório contém um script Python projetado para ler um arquivo PDF de Cadastro de Passivos (Ou qualquer arquivo que passua coordenadas de pontos), ele vai extrair informações relevantes e exportá-las para um arquivo CSV estruturado. A principal motivação é converter dados de um formatoPDF para um formato tabular (CSV), ideal para análise espacias, importação em bancos de dados ou uso no QGIS.
+Este script em Python extrai dados de passivos ambientais (rodovia, código, km e coordenadas) de um arquivo PDF e os salva em um arquivo CSV formatado para uso em sistemas de geoprocessamento (GIS).
+
+English :
+This Python script extracts environmental liability data (highway, ID, km, and coordinates) from a PDF file and saves it into a formatted CSV file for use in GIS software.
